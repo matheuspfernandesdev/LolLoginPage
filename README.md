@@ -2,7 +2,7 @@
  Recriando a página inicial do League of Legends como estudo de CSS, JS e HTML. 
  Aprendizado de eventListener, variáveis em CSS, pseudo elements, responsividade e design em geral com CSS. 
 
-- Link para acesso: lolloginbybinaryten.netlify.app
+- Link para acesso: lolloginbybinaryten.netlify.app/ 
 
 > Próximos itens a se fazer para estudo:
 * Setinha do login fica branca abrindo no celular
