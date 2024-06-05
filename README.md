@@ -5,6 +5,7 @@
 - Link para acesso: https://inspiring-gumdrop-2857a1.netlify.app/ 
 
 > Próximos itens a se fazer para estudo:
+* Setinha do login fica branca abrindo no celular
 * Trocar a imagem por uma animada, e um botão para habilitar e desabilitar
 * Coloca um áudio, e um botão para habilitar e desabilitar
 * Fazer as duas telas de Criar conta e Não consegue iniciar sessão?
