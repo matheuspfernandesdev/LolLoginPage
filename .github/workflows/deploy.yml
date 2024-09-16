@@ -20,4 +20,4 @@ jobs:
 
     - name: Deploy files via SCP
       run: |
-        scp -o StrictHostKeyChecking=no -r ./path_to_your_files/ your_vps_user@your_vps_ip:/path/to/destination
+        scp -o StrictHostKeyChecking=no -r ./path_to_your_files/ your_vps_user@157.173.102.167:/path/to/destination
