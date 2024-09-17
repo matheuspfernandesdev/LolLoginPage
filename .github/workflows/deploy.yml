@@ -21,4 +21,4 @@ jobs:
 
     - name: Deploy files via SCP
       run: |
-        scp -o StrictHostKeyChecking=no -r ./ root@157.173.102.167:/home/binaryten/htdocs/www.binaryten.xyz/
+        scp -o StrictHostKeyChecking=no -r * root@157.173.102.167:/home/binaryten/htdocs/www.binaryten.xyz/
