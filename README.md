@@ -2,7 +2,11 @@
  Recriando a página inicial do League of Legends como estudo de CSS, JS e HTML. 
  Aprendizado de eventListener, variáveis em CSS, pseudo elements, responsividade e design em geral com CSS. 
 
-- Link para acesso: https://lollogin.binaryten.xyz/
+ Projeto também usado para aprendizado em hospedagem de sites utilizando uma VPS Contabo, Cloudflare, Hostinger para obter um domínio, Cloudpanel para gerenciamento dos sites da VPS, e também a Netlify para testar uma hospedagem bem mais simples que uma VPS. 
+
+- Link para acesso:
+  - https://lollogin.binaryten.xyz/ (hospedado na netlify)
+  - https://www.binaryten.xyz/ (hospedado numa VPS na Contabo)
 
 > Próximos itens a se fazer para estudo:
 * Setinha do login fica branca abrindo no celular
